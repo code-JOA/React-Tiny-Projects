@@ -1,5 +1,5 @@
 .form_container {
-  position: re
+  position: absolute;
   width: fit-content;
   height: fit-content;
   display: flex;
