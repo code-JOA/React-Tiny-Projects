@@ -1,8 +1,8 @@
 .form_container {
   width: fit-content;
   height: fit-content;
-  display: center;
-  flex-direction: column;
+  display: flex;
+  flex-direction: inherit
   align-items: center;
   justify-content: center;
   gap: 15px;
