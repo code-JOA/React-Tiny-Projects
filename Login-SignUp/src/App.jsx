@@ -163,7 +163,7 @@
 // }
 
 import React from 'react';
-import login from './components/login'
+import login from './components/login.jsx';
 
 const App = () => {
   return (
