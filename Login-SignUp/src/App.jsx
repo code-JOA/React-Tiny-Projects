@@ -3,7 +3,6 @@
 // import viteLogo from '/vite.svg'
 // import './App.css'
 
-
 // import React from "react";
 
 // export default function LoginForm() {
@@ -162,13 +161,11 @@
 //   );
 // }
 
-import React from 'react';
-import login from './components/login.jsx';
+import React from "react";
+import login from "./components/Login/login.jsx";
 
 const App = () => {
-  return (
-    <login />
-  )
-}
+  return <login />;
+};
 
-export default App
+export default App;
