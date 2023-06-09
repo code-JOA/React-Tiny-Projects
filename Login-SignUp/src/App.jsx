@@ -162,3 +162,13 @@
 //   );
 // }
 
+import React from 'react';
+import login from './components/login'
+
+const App = () => {
+  return (
+    <login />
+  )
+}
+
+export default App
